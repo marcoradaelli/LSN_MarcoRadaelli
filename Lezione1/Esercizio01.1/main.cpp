@@ -10,7 +10,7 @@ _/    _/  _/_/_/  _/_/_/_/ email: Davide.Galli@unimi.it
 
 #include <iostream> 
 #include <fstream>
-#include <string>
+#include <string> 
 #include "random.h"
 
 using namespace std;
