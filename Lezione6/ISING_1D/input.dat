@@ -1,0 +1,17 @@
+0.9
+50
+1.0
+0.00
+1
+20
+10000
+1
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro; (1=Metropolis, 0=Gibbs)
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> loadFromFile; (0=no, 1=yes)
