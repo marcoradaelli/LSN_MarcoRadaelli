@@ -1,2 +1,1 @@
-LSN_exercises_delivery git add README.md
-Prova prova
+I Jupyter Notebook per ogni lezione sono nella cartella della lezione.
