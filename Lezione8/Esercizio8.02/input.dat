@@ -1,0 +1,7 @@
+Delta		0.9
+Mu_min		0.79
+Mu_max		0.83
+Sigma_min	0.5
+Sigma_max	0.7
+n_mu		10
+n_sigma		10

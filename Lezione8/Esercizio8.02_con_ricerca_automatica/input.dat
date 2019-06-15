@@ -1,0 +1,10 @@
+Delta		0.9
+Mu_min		0.3
+Mu_max		1.0
+Sigma_min	0.2
+Sigma_max	0.9
+n_mu		10
+n_sigma		10
+step_equil	10000
+ricerca_auto	1
+step_auto	8
