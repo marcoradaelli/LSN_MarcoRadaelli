@@ -1,0 +1,6 @@
+quante_citta	30
+quanti_scambi_init	30
+beta_min	0.001
+beta_max	100
+beta_step	1
+tent_beta_step	1000	
